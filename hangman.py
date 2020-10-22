@@ -10,7 +10,7 @@ def hangman_game():
 
     words = ['rainbow', 'computer', 'science', 'programming',
              'python', 'mathematics', 'player', 'condition',
-             'reverse', 'water', 'board', 'life', 'java', 'family', 'dark']
+             'reverse', 'water', 'board', 'life', 'java', 'family', 'dark','Table']
     word = random.choice(words)
     #determine the number of turns
     turns = 10
